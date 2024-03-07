@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    // 路径映射
+    "paths": {
+      /*
+       @/ 映射成 src/，
+
+       css里面可以使用 路径映射，记得在@符号前面加 ~
+        如： ~@/assets/images/bg1.png
+
+      */
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
+  },
+  // 路径映射不能在以下文件夹使用
+  "exclude": [
+    "node_modules",
+    "dist",
+    "demo"
+  ]
+}

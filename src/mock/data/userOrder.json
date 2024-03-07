@@ -1,0 +1,58 @@
+{
+    "totalAmount": 23996,
+    "userAddressList": [
+        {
+            "id":"1101",
+            "userAddress":"湖南长沙市雨花区曙光中路4801号社区",
+            "userId":"6",
+            "consignee":"张三",
+            "phoneNum":"13700000000",
+            "isDefault":1
+          }
+     ],
+     "tradeNo": "4f2814ed00cc478e85b867427d9a5f68",
+     "totalNum": 4,
+     "detailArrayList": [
+         {
+            "id": 5948,
+            "orderId": null,
+            "skuId": 2,
+            "skuName": "小米10 至尊纪念版 双模5G 骁龙865 120W快充 12GB+256GB 陶瓷黑 游戏手机",
+            "imgUrl": "http://39.98.123.211/group1/M00/00/01/rBHu8l-rfvmAcbl2AAFopp2WGBQ404.jpg",
+            "orderPrice": 6999,
+            "skuNum": 5,
+            "hasStock": null     
+        },
+        {
+            "id": 6096,
+            "orderId": null,
+            "skuId": 4,
+            "skuName": "Redmi 10X 4G Helio G85游戏芯 4GB+128GB 明月灰 游戏智能手机 小米 红米",
+            "imgUrl": "http://39.98.123.211/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+            "orderPrice": 999,
+            "skuNum": 8,
+            "hasStock": null     
+        },
+        {
+            "id": 5947,
+            "orderId": null,
+            "skuId": 13,
+            "skuName": "华为 HUAWEI P40 麒麟990 5G SoC芯片  6GB+128GB亮黑色全网通5G手机",
+            "imgUrl": "http://39.98.123.211/group1/M00/00/02/rBHu8l-sklaALrngAAHGDqdpFtU741.jpg",
+            "orderPrice": 4188,
+            "skuNum": 9,
+            "hasStock": null     
+        },
+        {
+            "id": 6166,
+            "orderId": null,
+            "skuId": 10,
+            "skuName": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机",
+            "imgUrl": "http://39.98.123.211/group1/M00/00/02/rBHu8l-rgfWAbqkuAAENKBtJukQ551.jpg",
+            "orderPrice": 8197,
+            "skuNum": 8,
+            "hasStock": null     
+        }
+     ]
+}
+

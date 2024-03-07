@@ -1,0 +1,34 @@
+[
+    {
+      "id":"1101",
+      "userAddress":"湖南长沙市雨花区曙光中路4801号社区",
+      "userId":"6",
+      "consignee":"张三",
+      "phoneNum":"13700000000",
+      "isDefault":1
+    },
+    {
+        "id":"1102",
+        "userAddress":"深圳市福田区4809号社区",
+        "userId":"6",
+        "consignee":"李四",
+        "phoneNum":"13845614561",
+        "isDefault":0
+    },
+    {
+        "id":"1103",
+        "userAddress":"美国纽约市8号大街4号楼",
+        "userId":"6",
+        "consignee":"汤姆",
+        "phoneNum":"15421355412",
+        "isDefault":0
+    },
+    {
+        "id":"1104",
+        "userAddress":"美国新泽西州15号大街7号楼",
+        "userId":"6",
+        "consignee":"杰西卡",
+        "phoneNum":"16325123265",
+        "isDefault":0
+    }
+]
